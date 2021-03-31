@@ -16,3 +16,4 @@ E_4G | 29.33 | 20% | Energy consumption per 4G data symmetric uncertainty 20%
 E_5G | 29.33 | 20% | Energy consumption per 5G data symmetric uncertainty 20%
 sub | 29.33 | 5% | number of total subscriptions symmetric uncertainty 5%
 users | 29.33 | 25% | users in the DU area symmetric uncertainty 25% 
+users | 29.33 | 50% | users in the SU area symmetric uncertainty 50% 
